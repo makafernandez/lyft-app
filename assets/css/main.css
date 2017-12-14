@@ -1,0 +1,29 @@
+body {
+	background: linear-gradient(135deg, #530060 0%,#e60a8b 100%);
+}
+
+.logo-box {
+	height: 100vh;
+	padding: 40vh 0;
+	align-items: center;
+	
+}
+
+.white-logo {
+	width: 100%;
+}
+
+#welcome {
+	height: 100vh;
+	background-image: url(../img/../img/lyftlyfe.png);
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.welcome-btn {
+	background-color: transparent!important;
+	color: #fff!important;
+	padding: 1em!important;
+}
+
